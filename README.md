@@ -41,7 +41,7 @@ These projects focus on **decision-making using data**, not just dashboards.
 
 ##  Skills Demonstrated
 
-### 📈 Analytics
+###  Analytics
 - Excel
 - SQL
 - Python (Pandas)
@@ -49,13 +49,13 @@ These projects focus on **decision-making using data**, not just dashboards.
 - Data Visualization
 - KPI Design
 
-### ☁️ Modern Data Stack
+###  Modern Data Stack
 - Databricks (learning & upcoming projects)
 - Cloud Analytics (Azure / AWS fundamentals)
 - Data Warehousing concepts
 - ETL & Data Pipelines
 
-### 💼 Business Thinking
+###  Business Thinking
 - Customer Analytics
 - Marketing Analytics
 - Operations Analysis
