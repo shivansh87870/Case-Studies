@@ -1,4 +1,4 @@
-# 📊 AI Onboarding Conversion Analysis: Root Cause Analysis of a 12% Subscription Decline
+#  AI Onboarding Conversion Analysis: Root Cause Analysis of a 12% Subscription Decline
 
 [![Product Analytics](https://img.shields.io/badge/Domain-Product%20Analytics-blue)](#)
 [![SQL](https://img.shields.io/badge/Language-SQL-orange)](#)
